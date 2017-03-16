@@ -1,2 +1,2 @@
-# inz
-node mongo express jade
+# system-jade
+Video Capture - Node, Express, Mongo, Jade
